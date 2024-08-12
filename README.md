@@ -11,5 +11,6 @@ Learning Outcomes:
 - Deploy, configure, and manage cloud resources.
 - Develop and manage cloud-based applications using modern cloud technologies.
 - Address security, compliance, and cost considerations in cloud computing.
+- 
 ![cloud-computing](https://github.com/user-attachments/assets/59e5117e-f435-4f1e-8507-4b3994c9d360)
 
